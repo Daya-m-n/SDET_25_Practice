@@ -11,6 +11,8 @@ public class ModelYManufacture
 		System.out.println("Model 3 assembly started");
 		System.out.println("Model x assembly started");
 		System.out.println("Model y assembly started");
+		System.out.println("Model x assembly started");
+		System.out.println("Model y assembly started");
 
 	}
 
