@@ -7,15 +7,15 @@ public class ModelYManufacture
 	@Test
 	public void modelY()
 	{
-		System.out.println("Model s assembly started");
+		System.out.println("Model 1 assembly started");
+		System.out.println("Model 2 assembly started");
 		System.out.println("Model 3 assembly started");
-		System.out.println("Model x assembly started");
-		System.out.println("Model y assembly started");
+		System.out.println("Model 4 assembly started");
 		
-		System.out.println("Model s assembly started");
+		System.out.println("Model 1 assembly started");
+		System.out.println("Model 2 assembly started");
 		System.out.println("Model 3 assembly started");
-		System.out.println("Model x assembly started");
-		System.out.println("Model y assembly started");
+		System.out.println("Model 4 assembly started");
 		
 
 	}
